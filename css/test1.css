@@ -1,6 +1,6 @@
 body{
-    background-image:url('../img/fondo.jpg');
-    background-repeat:no-repeat;
+    background-image:url('../img/fondo-verde.jpg');
+    
 }
 .navbar {
     background-color:#A52A2A;
@@ -40,6 +40,7 @@ footer {
 .pie {
     background-color:#380000;
     color:white;
+    margin-bottom:0px;
 }
 
 .carousel-inner > .item > img { margin: 0 auto; }
