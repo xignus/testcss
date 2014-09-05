@@ -16,11 +16,17 @@
     font-size:25px;
     font-weight:bold;
     color:white;
+    height:100%;
+    width:100%;
+    background-color:green;
+    padding: 22px 70px 22px 50px;
+    overflow:hidden;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px black;
 }
-
-.opcion:hover{
-    background-color:#0066cc;
+.opcion:hover {
     transform: matrix(0.866,0.5,-0.5,0.866,0,0);
     color:white;
     animation:mymove 5s infinite;
+    text-decoration:none;
 }
